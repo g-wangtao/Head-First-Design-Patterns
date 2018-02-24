@@ -1,7 +1,7 @@
 package indi.karl.designpatterns.factory.pizzas;
 
 /**
- * Created by wangtao on 2018/2/24.
+ * Created by karl on 2018/2/24.
  */
 public class PepperoniPizza extends Pizza {
 
