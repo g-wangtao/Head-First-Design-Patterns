@@ -3,7 +3,7 @@ package indi.karl.designpatterns.factory.pizzafm;
 /**
  * Created by karl on 2018/3/27.
  */
-public class NYStylePizzaStore extends PizzaStore {
+public class NYPizzaStore extends PizzaStore {
 
     @Override
     Pizza createPizza(String type) {
